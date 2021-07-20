@@ -6,5 +6,6 @@ int main(){
        cout<<"Hello"<<endl;
    }
    cout<<"Done";
+   cout<<"New";
 return 0;
 }
